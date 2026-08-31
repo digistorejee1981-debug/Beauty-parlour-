@@ -1,0 +1,6 @@
+{
+  "name": "Priyanka Beauty Parlour",
+  "description": "Priyanka Beauty Parlour offers professional makeup, hair styling, skincare, bridal beauty and salon services with personalized care and premium beauty products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
